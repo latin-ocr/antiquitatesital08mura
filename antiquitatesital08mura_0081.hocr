@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antiquitatesital08mura_0081.png"; bbox 0 0 2216 3100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 214 820 1918 1228">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 214 820 1918 1228">
+     <span class='ocr_line' id='line_1_1' title="bbox 352 820 1918 1007; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 352 877 635 1006; x_wconf 81' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_2' title='bbox 776 874 1699 1007; x_wconf 77' lang='lat' dir='ltr'>DUELLO,</span> <span class='ocrx_word' id='word_1_3' title='bbox 1916 820 1918 823; x_wconf 34' lang='lat'><em>¹</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 214 1099 1841 1228; baseline 0.001 -15"><span class='ocrx_word' id='word_1_4' title='bbox 214 1099 956 1228; x_wconf 82' lang='lat' dir='ltr'>EJUSQUE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1090 1102 1841 1217; x_wconf 82' lang='lat' dir='ltr'>ORIGINE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 646 1299 1412 1369">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 646 1299 1412 1369">
+     <span class='ocr_line' id='line_1_3' title="bbox 646 1299 1412 1369; baseline 0.005 -5"><span class='ocrx_word' id='word_1_6' title='bbox 646 1299 1412 1369; x_wconf 87' lang='lat' dir='ltr'><strong>UUUUUU</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 222 1530 1840 1800">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 222 1530 1840 1800">
+     <span class='ocr_line' id='line_1_4' title="bbox 222 1530 1840 1633; baseline 0.006 -8"><span class='ocrx_word' id='word_1_7' title='bbox 222 1535 321 1625; x_wconf 94' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_8' title='bbox 403 1537 444 1626; x_wconf 86' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_9' title='bbox 525 1535 584 1624; x_wconf 87' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_10' title='bbox 670 1533 729 1622; x_wconf 88' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_11' title='bbox 816 1530 896 1621; x_wconf 86' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 979 1534 1069 1623; x_wconf 87' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_13' title='bbox 1134 1535 1227 1624; x_wconf 90' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_14' title='bbox 1295 1537 1378 1624; x_wconf 91' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1443 1537 1536 1627; x_wconf 92' lang='lat' dir='ltr'><strong>T</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1621 1541 1663 1631; x_wconf 95' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_17' title='bbox 1747 1540 1840 1633; x_wconf 88' lang='lat' dir='ltr'>O</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 527 1718 1534 1800; baseline 0.004 -4"><span class='ocrx_word' id='word_1_18' title='bbox 527 1718 1534 1800; x_wconf 71' lang='lat' dir='ltr'>TRIGE81MANONA.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

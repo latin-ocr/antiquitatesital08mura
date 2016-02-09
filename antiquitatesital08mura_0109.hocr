@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antiquitatesital08mura_0109.png"; bbox 0 0 2216 3100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 217 618 1839 984">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 514 1839 984">
+     <span class='ocr_line' id='line_1_1' title="bbox 296 618 1768 753; baseline -0.002 -3.502"><span class='ocrx_word' id='word_1_1' title='bbox 296 623 544 753; x_wconf 78' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 616 618 1768 753; x_wconf 80' lang='lat' dir='ltr'>RHYTHMICA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 217 870 1839 984; baseline -0.005 -3"><span class='ocrx_word' id='word_1_3' title='bbox 217 871 1174 982; x_wconf 81' lang='lat' dir='ltr'>VETERUM</span> <span class='ocrx_word' id='word_1_4' title='bbox 1262 870 1839 984; x_wconf 85' lang='lat' dir='ltr'>POESL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 621 1098 1437 1153">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 621 1098 1437 1153">
+     <span class='ocr_line' id='line_1_3' title="bbox 621 1098 1437 1153; baseline 0.002 -2"><span class='ocrx_word' id='word_1_5' title='bbox 621 1098 1437 1153; x_wconf 88' lang='lat' dir='ltr'>EEEEEEEEE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 375 1246 1681 1339">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 375 1246 1681 1339">
+     <span class='ocr_line' id='line_1_4' title="bbox 375 1246 1681 1339; baseline 0.001 -4"><span class='ocrx_word' id='word_1_6' title='bbox 375 1254 1029 1337; x_wconf 86' lang='lat' dir='ltr'>ITALICAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1092 1246 1681 1339; x_wconf 26' lang='lat' dir='ltr'>POESEOSA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 215 1447 1840 1744">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 215 1447 1840 1744">
+     <span class='ocr_line' id='line_1_5' title="bbox 215 1447 1840 1546; baseline 0.004 -7"><span class='ocrx_word' id='word_1_8' title='bbox 215 1448 312 1540; x_wconf 90' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_9' title='bbox 388 1448 431 1539; x_wconf 91' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_10' title='bbox 506 1447 566 1540; x_wconf 87' lang='lat' dir='ltr'><strong><em>S</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 639 1449 700 1543; x_wconf 85' lang='lat' dir='ltr'><strong><em>S</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 773 1449 851 1542; x_wconf 90' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_13' title='bbox 926 1449 1027 1543; x_wconf 86' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_14' title='bbox 1103 1449 1197 1541; x_wconf 89' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_15' title='bbox 1278 1450 1378 1543; x_wconf 88' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1453 1451 1549 1542; x_wconf 93' lang='lat' dir='ltr'><strong>T</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1627 1451 1672 1543; x_wconf 96' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_18' title='bbox 1749 1453 1840 1546; x_wconf 90' lang='lat' dir='ltr'>O</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 513 1661 1540 1744; baseline -0.006 0"><span class='ocrx_word' id='word_1_19' title='bbox 513 1661 1540 1744; x_wconf 53' lang='lat' dir='ltr'>QUADRAGESIMffi</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

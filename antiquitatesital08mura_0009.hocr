@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antiquitatesital08mura_0009.png"; bbox 0 0 2216 3100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 184 744 1810 880">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 184 744 1810 880">
+     <span class='ocr_line' id='line_1_1' title="bbox 184 744 1810 880; baseline 0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 184 746 433 879; x_wconf 87' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 533 744 1810 880; x_wconf 69' lang='lat' dir='ltr'>HOSPITALIBUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 283 970 1701 1255">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 283 970 1701 1255">
+     <span class='ocr_line' id='line_1_2' title="bbox 378 970 1499 1075; baseline 0.003 -26"><span class='ocrx_word' id='word_1_3' title='bbox 378 1063 384 1075; x_wconf 14' lang='lat' dir='ltr'>k</span> <span class='ocrx_word' id='word_1_4' title='bbox 506 970 1499 1052; x_wconf 83' lang='lat' dir='ltr'><strong>PEREGRINORUM›</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 283 1138 1701 1255; baseline -0.007 -3"><span class='ocrx_word' id='word_1_5' title='bbox 283 1141 340 1252; x_wconf 94' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 369 1138 498 1251; x_wconf 90' lang='grc' dir='ltr'>Ν</span> <span class='ocrx_word' id='word_1_7' title='bbox 526 1139 618 1249; x_wconf 90' lang='lat' dir='ltr'>F</span> <span class='ocrx_word' id='word_1_8' title='bbox 650 1139 704 1248; x_wconf 95' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_9' title='bbox 737 1141 860 1250; x_wconf 80' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_10' title='bbox 891 1141 1034 1255; x_wconf 88' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_11' title='bbox 1065 1139 1181 1249; x_wconf 85' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_12' title='bbox 1215 1143 1339 1249; x_wconf 81' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_13' title='bbox 1370 1142 1490 1250; x_wconf 91' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_14' title='bbox 1521 1146 1701 1251; x_wconf 78' lang='lat' dir='ltr'><strong>M,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 1343 1804 1616">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 1343 1804 1616">
+     <span class='ocr_line' id='line_1_4' title="bbox 359 1343 1628 1412; baseline 0.005 -6"><span class='ocrx_word' id='word_1_15' title='bbox 359 1343 844 1407; x_wconf 84' lang='lat' dir='ltr'>INFANTIUM</span> <span class='ocrx_word' id='word_1_16' title='bbox 884 1343 1496 1406; x_wconf 79' lang='lat' dir='ltr'>EXPOSITORUM</span> <span class='ocrx_word' id='word_1_17' title='bbox 1524 1352 1628 1412; x_wconf 68' lang='lat' dir='ltr'><strong>&amp;c-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 0 1466 1804 1616; baseline 0.002 -3"><span class='ocrx_word' id='word_1_18' title='bbox 0 1466 1804 1616; x_wconf 36' lang='lat' dir='ltr'><strong>&#39;DISSERTATIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 420 1707 1564 1765">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 420 1707 1564 1765">
+     <span class='ocr_line' id='line_1_6' title="bbox 420 1707 1564 1765; baseline -0.001 -1"><span class='ocrx_word' id='word_1_19' title='bbox 420 1707 1564 1765; x_wconf 85' lang='lat' dir='ltr'><strong>IIIIIIIIIIIIIIIII</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
